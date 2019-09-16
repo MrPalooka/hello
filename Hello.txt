@@ -1,3 +1,2 @@
 Hello
-
-ciao
+Second line
